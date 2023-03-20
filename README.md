@@ -4,7 +4,7 @@ I made this little calculator in python while I was on a python learning journey
 # Age Calculator
 Put your birth date and the calculator will tell you how old are you
 
-<a href="https://ibb.co/WtsJtXN"><img src="https://i.ibb.co/WtsJtXN/210261904-00f4760c-2eb3-4662-a589-7d0518890b79.jpg"></a>
+<a href="https://ibb.co/WtsJtXN" target"blank"><img src="https://i.ibb.co/WtsJtXN/210261904-00f4760c-2eb3-4662-a589-7d0518890b79.jpg"></a>
 
 # Birthday Cake
 draw a cake that say happy birthday
